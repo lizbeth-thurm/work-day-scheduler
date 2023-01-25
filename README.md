@@ -41,7 +41,8 @@ THEN the saved events persist
 
 ## Tools
 
-
+[Moment.js](https://momentjs.com/)
+[jQuery](https://jquery.com/)
   
 ## License
   
