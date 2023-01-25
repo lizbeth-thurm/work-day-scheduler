@@ -1,0 +1,23 @@
+{
+  "name": "work-day-scheduler",
+  "version": "1.0.0",
+  "description": "A simple calendar application that allows a user to save events for each hour of the day.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skip-thurm/work-day-scheduler.git"
+  },
+  "author": "Skipper Thurman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skip-thurm/work-day-scheduler/issues"
+  },
+  "homepage": "https://github.com/skip-thurm/work-day-scheduler#readme",
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "moment": "^2.29.4"
+  }
+}
