@@ -54,7 +54,8 @@ None
 
 ## Links
 
-<a href="https://github.com/skip-thurm/work-day-scheduler">Link to Deployed Application</a>
+<a href="https://skip-thurm.github.io/work-day-scheduler/">Link to Deployed Application</a>
+<a href="https://github.com/skip-thurm/work-day-scheduler">Link to github repository</a>
   
 ## Questions
 
