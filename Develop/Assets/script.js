@@ -5,7 +5,7 @@ $("#currentDay").text(moment().format("dddd, MMMM Do"));
 function changeColor() {
 
     var currentTime = moment().hour();
-    
+
     $(".time-block").each(function () {
 
         var timeBlockHour = parseInt($(this).attr("id"));
@@ -17,13 +17,13 @@ function changeColor() {
         } else {
             $(this).addClass("future");
         }
-    
+
     })
 
 };
 
 // Function to save text to local storage on button click
-$(".saveBtn").on("click", function() {
+$(".saveBtn").on("click", function () {
 
     var text = $(this).siblings(".description").val();
     var time = $(this).parent().attr("id");

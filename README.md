@@ -50,7 +50,7 @@ None
 
 ## Screenshot
 
-[Screenshot](Develop/Assets/screenshot.jpeg)
+[Screenshot](Develop/Assets/screenshot.jpg)
 
 ## Links
 
