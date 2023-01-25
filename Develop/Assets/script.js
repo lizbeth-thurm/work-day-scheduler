@@ -35,7 +35,7 @@ $(".saveBtn").on("click", function() {
 // Function to get text from local storage
 function getText() {
 
-    timeBlocks.each(function () {
+    $(".time-block").each(function () {
 
         var time = $(this).attr("id");
         var text = localStorage.getItem(time);
