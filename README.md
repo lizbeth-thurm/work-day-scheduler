@@ -54,14 +54,14 @@ None
 
 ## Links
 
-<a href="https://skip-thurm.github.io/work-day-scheduler/">Link to Deployed Application</a>
-<a href="https://github.com/skip-thurm/work-day-scheduler">Link to github repository</a>
+<a href="https://lizbeth-thurm.github.io/work-day-scheduler/">Link to Deployed Application</a>
+<a href="https://github.com/lizbeth-thurm/work-day-scheduler">Link to github repository</a>
   
 ## Questions
 
 GitHub Username:
 
-skip-thurm
+lizbeth-thurm
 
 You can reach me with any questions at:
 
